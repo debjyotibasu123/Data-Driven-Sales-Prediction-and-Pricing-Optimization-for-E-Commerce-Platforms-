@@ -1,1 +1,1 @@
-# Data-Driven-Sales-Prediction-and-Pricing-Optimization-for-E-Commerce-Platforms-
+# Data-Driven-Sales-Prediction-and-Discount-Optimization-for-E-Commerce-Platforms-
