@@ -125,7 +125,7 @@ This framework enables:
 
 - Debjyoti Basu  
 - Yougantar Dutta  
-- Kshitika Agarwal  
+- Kshitika Bansal  
 
 **Guided by Prof. Suman Sanyal**  
 Goa Institute of Management
