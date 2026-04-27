@@ -124,7 +124,7 @@ This framework enables:
 ## 👥 Contributors
 
 - Debjyoti Basu  
-- Yougnatar Dutta  
+- Yougantar Dutta  
 - Kshitika Agarwal  
 
 **Guided by Prof. Suman Sanyal**  
